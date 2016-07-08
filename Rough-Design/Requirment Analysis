@@ -1,0 +1,60 @@
+This file contains discreet rough features that are discovered during pre-design phase.
+
+Features:
+    01. Creating Invoice
+    02. Saving Invoice
+    03. Editing Invoice
+    04. Deleting Invoice
+    05. Printing Invoice
+    06. E-mailing Invoice
+    07. Download Invoice as Documents
+    08. Creating Quotations
+    09. Saving Quotations
+    10. Editing Quotations
+    11. Deleting Quotation
+    12. Printing Quotations
+    13. E-mailing Quotations
+    14. Download Quotations as Documents
+    15. Generating Reports
+    16. Printing Reports
+    17. E-mailing Reports
+    18. Download Reports as Documents
+    19. Creating Invoice Templates 
+    20. Saving Invoice Templates
+    21. Editing Invoice Templates
+    22. Deleting Invoice Templates
+    23. Products Entry
+    24. Products Edit
+    25. Products Delete
+    26. Customers Entry
+    27. Customers Edit
+    28. Customers Delete
+    29. Email Massaging
+    30. Business Info (Entry/Save/Edit)
+    31. Registering Users
+    32. Editing Users
+    33. Deleting Users
+    34. Changing other Application Settings
+    35. Calender and Scheduling
+    36. Login
+    37. Logout
+    38. Change Password
+    39. Password Recovery
+
+
+
+
+Use Case:
+
+ 01.Title: "Creating Invoice"
+    Primary Actor: Registered User
+    Goal in Context: Creating a new Bill or Invoice
+    Scope: Invoice
+    Level: Stuff
+    Stakeholders and Interests:
+    Precondition: User is Logged in, products are entered
+    Minimal Guarantees:
+    Success Guarantees:
+    Trigger: 
+    Main Success Scenario:
+    Extensions:

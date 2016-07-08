@@ -1,4 +1,0 @@
-This file contains discrit rough features that are descovered during pre-design phase.
-
-Features:
-
