@@ -1,60 +1,89 @@
 This file contains discreet rough features that are discovered during pre-design phase.
 
-Features:
-    01. Creating Invoice
-    02. Saving Invoice
-    03. Editing Invoice
-    04. Deleting Invoice
-    05. Printing Invoice
-    06. E-mailing Invoice
-    07. Download Invoice as Documents
-    08. Creating Quotations
-    09. Saving Quotations
-    10. Editing Quotations
-    11. Deleting Quotation
-    12. Printing Quotations
-    13. E-mailing Quotations
-    14. Download Quotations as Documents
-    15. Generating Reports
-    16. Printing Reports
-    17. E-mailing Reports
-    18. Download Reports as Documents
-    19. Creating Invoice Templates 
-    20. Saving Invoice Templates
-    21. Editing Invoice Templates
-    22. Deleting Invoice Templates
-    23. Products Entry
-    24. Products Edit
-    25. Products Delete
-    26. Customers Entry
-    27. Customers Edit
-    28. Customers Delete
-    29. Email Massaging
-    30. Business Info (Entry/Save/Edit)
-    31. Registering Users
-    32. Editing Users
-    33. Deleting Users
-    34. Changing other Application Settings
-    35. Calender and Scheduling
-    36. Login
-    37. Logout
-    38. Change Password
-    39. Password Recovery
+Systems with Features/Functions:
+    01)Invoice Management:
+        a. Creating Invoice
+        b. Saving Invoice
+        c. Editing Invoice
+        d. Deleting Invoice
+        e. Printing Invoice
+        f. E-mailing Invoice
+        g. Download Invoice as Documents
+
+    02)Quotation Management:
+        a. Creating Quotations
+        b. Saving Quotations
+        c. Editing Quotations
+        d. Deleting Quotation
+        e. Printing Quotations
+        f. E-mailing Quotations
+        g. Download Quotations as Documents
+
+    03) Invoice/Quotation Templates Management:
+        a. Creating Invoice Templates 
+        b. Saving Invoice Templates
+        c. Editing Invoice Templates
+        d. Deleting Invoice Templates
+
+    04)Reports Management:
+        a. Generating Reports
+        b. Printing Reports
+        c. E-mailing Reports
+        d. Download Reports as Documents
+
+    05) Products Management:
+        a. Products Entry
+        b. Products Edit
+        c. Products Delete
+
+    06) Customer Management:
+        a. Customers Entry
+        b. Customers Edit
+        c. Customers Delete
+
+    07) System User Management
+        a. Registering Users
+        b. Editing Users
+        c. Deleting Users
+
+    08) System User Activity
+        29. Email Massaging
+        30. Business Info (Entry/Save/Edit)
+        34. Changing other Application Settings
+        35. Calender and Scheduling
+        36. Login
+        37. Logout
+        38. Change Password
+        39. Password Recovery
+
+<hr>
+
+System Description:
+
+    01) System Name: Invoice Management
+                    This 
+        Risk Factors
+        <list risk factors here in priority order>
+        System Level Use Case Diagram
+        <Or you could just list the Actors and Use Cases in text.>
+        Architecture Diagram
+        <Include a description of the interfaces as well. These could be on
+        the diagram, or listed in text.>
+        Subsystem Descriptions
+        <Include a brief description of each subsystem.>
 
 
+    Use Case:
 
-
-Use Case:
-
- 01.Title: "Creating Invoice"
-    Primary Actor: Registered User
-    Goal in Context: Creating a new Bill or Invoice
-    Scope: Invoice
-    Level: Stuff
-    Stakeholders and Interests:
-    Precondition: User is Logged in, products are entered
-    Minimal Guarantees:
-    Success Guarantees:
-    Trigger: 
-    Main Success Scenario:
-    Extensions:
+     01) a. Title: "Creating Invoice"
+            Primary Actor: Registered User
+            Goal in Context: Creating a new Bill or Invoice
+            Scope: Invoice
+            Level: Stuff
+            Stakeholders and Interests:
+            Precondition: User is Logged in, products are entered
+            Minimal Guarantees:
+            Success Guarantees:
+            Trigger: 
+            Main Success Scenario:
+            Extensions:
